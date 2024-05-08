@@ -1,0 +1,1 @@
+/home/dairen/Projects/rustlings/target/release/rustlings: /home/dairen/Projects/rustlings/src/exercise.rs /home/dairen/Projects/rustlings/src/main.rs /home/dairen/Projects/rustlings/src/project.rs /home/dairen/Projects/rustlings/src/run.rs /home/dairen/Projects/rustlings/src/ui.rs /home/dairen/Projects/rustlings/src/verify.rs

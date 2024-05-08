@@ -1,0 +1,11 @@
+/Users/dairenjean/Projects/rustlings/target/debug/deps/libconsole-96d64708d110c79f.rmeta: /Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/lib.rs /Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/common_term.rs /Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/kb.rs /Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/term.rs /Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/unix_term.rs /Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/utils.rs /Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/ansi.rs
+
+/Users/dairenjean/Projects/rustlings/target/debug/deps/console-96d64708d110c79f.d: /Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/lib.rs /Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/common_term.rs /Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/kb.rs /Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/term.rs /Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/unix_term.rs /Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/utils.rs /Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/ansi.rs
+
+/Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/lib.rs:
+/Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/common_term.rs:
+/Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/kb.rs:
+/Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/term.rs:
+/Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/unix_term.rs:
+/Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/utils.rs:
+/Users/dairenjean/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/ansi.rs:
